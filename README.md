@@ -6,5 +6,5 @@ In order to run the script, you may need to modify execution policies (Set-Execu
 
 To execute after importing the registry keys: 
 * Right-click a file
-* "Hash this file (SHA256)"
+* Select "Hash this file (SHA256)"
 * A .txt file will be dropped in the same location called "hash_FILENAME.txt", which has the SHA256 sum saved in it.
